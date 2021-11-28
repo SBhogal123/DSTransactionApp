@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSTransactionApp", "DSTransactionApp\DSTransactionApp.csproj", "{E38EFBFA-94B2-45AA-8310-14680EEF967E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSBusinessServiceLayer", "DSBusinessServiceLayer\DSBusinessServiceLayer.csproj", "{F5952A07-C286-4791-8A16-E8F7FF0D62B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E38EFBFA-94B2-45AA-8310-14680EEF967E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38EFBFA-94B2-45AA-8310-14680EEF967E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38EFBFA-94B2-45AA-8310-14680EEF967E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E38EFBFA-94B2-45AA-8310-14680EEF967E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38EFBFA-94B2-45AA-8310-14680EEF967E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38EFBFA-94B2-45AA-8310-14680EEF967E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F5952A07-C286-4791-8A16-E8F7FF0D62B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5952A07-C286-4791-8A16-E8F7FF0D62B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5952A07-C286-4791-8A16-E8F7FF0D62B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5952A07-C286-4791-8A16-E8F7FF0D62B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8265C8D3-40F7-40AF-81E7-412F88B248D7}
+	EndGlobalSection
+EndGlobal
